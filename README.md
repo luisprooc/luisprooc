@@ -6,7 +6,7 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/luis-miguel-rosario-su%C3%A1rez-193783175/)  
 <p align="left"> <a href="https://twitter.com/lmrs0907" target="blank"><img src="https://img.shields.io/twitter/follow/lmrs0907?logo=twitter&style=for-the-badge" alt="lmrs0907" /></a> </p>
-<p align="left"> <a href="https://www.buymeacoffee.com/lmrs0907" target="blank"><img src=https://img.shields.io/static/v1?label=BUYMEACOFFEE&message=FOLLOW&color=yellow?style=plastic&logo=buymeacoffee></a> </p>
+<p align="left"> <a href="https://www.buymeacoffee.com/lmrs0907" target="blank"><img src=https://img.shields.io/static/v1?label=BUY ME A COFFEE&message=FOLLOW&color=yellow?style=plastic&logo=buymeacoffee></a> </p>
 
 ## GitHub Stats
 
