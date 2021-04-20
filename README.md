@@ -5,7 +5,8 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 ### 📫 How to reach me:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/luis-miguel-rosario-su%C3%A1rez-193783175/)  
-<p align="left"> <a href="https://twitter.com/LuisMig77274316" target="blank"><img src="https://img.shields.io/twitter/follow/LuisMig77274316?logo=twitter&style=for-the-badge" alt="LuisMig77274316" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lmrs0907" target="blank"><img src="https://img.shields.io/twitter/follow/lmrs0907?logo=twitter&style=for-the-badge" alt="lmrs0907" /></a> </p>
+<p align="left"> <a href="https://www.buymeacoffee.com/lmrs0907" target="blank"><img src=https://img.shields.io/static/v1?label=BUYMEACOFFEE&message=BUY ME A COFFEE&color=yellow></a> </p>
 
 ## GitHub Stats
 
@@ -47,7 +48,7 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 * Kubernetes
 * Hooks
 * MERN
-* Firestore
+* Data Structures
 
 ### 🔭 I’m currently working on:
 
