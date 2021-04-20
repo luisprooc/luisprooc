@@ -8,8 +8,6 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 <p align="left"> <a href="https://twitter.com/lmrs0907" target="blank"><img src="https://img.shields.io/twitter/follow/lmrs0907?logo=twitter&style=for-the-badge" alt="lmrs0907" /></a> </p>
 <p align="left"> <a href="https://www.buymeacoffee.com/lmrs0907" target="blank"><img src=https://img.shields.io/static/v1?label=BUYMEACOFFEE&message=FOLLOW&color=yellow?style=plastic&logo=buymeacoffee></a> </p>
 
-<img src=https://img.shields.io/badge/dynamic/yaml?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>>
-
 ## GitHub Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisprooc&label=Profile%20views&color=0e75b6&style=flat" alt="luisprooc" /> </p>
