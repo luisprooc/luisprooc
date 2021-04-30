@@ -43,7 +43,7 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 ### 🌱 I’m currently learning:
 
 * React
-* React Native
+* Github Actions
 * Docker
 * Kubernetes
 * Hooks
@@ -52,8 +52,9 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 
 ### 🔭 I’m currently working on:
 
-* Drill-kit (CSS library)
+* nodejs-learning (Learning path nodejs)
 * Pelt-testing (Python testing library)
+* python-data-structures
 
 <!--
 **luisprooc/luisprooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
