@@ -45,8 +45,6 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 * React
 * Github Actions
 * Docker
-* Kubernetes
-* Hooks
 * MERN
 * Data Structures
 
