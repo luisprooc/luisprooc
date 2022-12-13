@@ -42,15 +42,15 @@ I really love computer science, ocurrently I'm study programming in Cincinatus I
 
 ### 🌱 I’m currently learning:
 
-* React
-* Nestjs
+* Data Engineering
+* AWS
 * Docker
-* Nextjs
+* Microservices
 * Data Structures
 
 ### 🔭 I’m currently working on:
 
-Intellisys D Corp.
+HeimAtlas.
 
 <!--
 **luisprooc/luisprooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
