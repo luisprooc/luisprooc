@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I really love computer science, ocurrently I'm study programming in Cincinatus Institute of Craftmashimp. My interesting are: machine learning, web development, and mobile development. I love to get new skills.
+I really love computer science, My interests are: machine learning, web development, and mobile development. I love to learn new skills.
 
 ### 📫 How to reach me:
 
