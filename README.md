@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-I really love computer science, My interests are: machine learning, web development, and mobile development. I love to learn new skills.
+I really love computer science, My interests are: AI, web development, and machine learning. I love to learn new skills.
 
 ### 📫 How to reach me:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]( https://www.linkedin.com/in/luis-miguel-rosario-su%C3%A1rez-193783175/)  
-<p align="left"> <a href="https://twitter.com/lmrs0907" target="blank"><img src="https://img.shields.io/twitter/follow/lmrs0907?logo=twitter&style=for-the-badge" alt="lmrs0907" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lmrs0907" target="blank"><img src="https://img.shields.io/twitter/follow/lmcodeOfficial?logo=twitter&style=for-the-badge" alt="lmcodeOfficial" /></a> </p>
 
 
 ## GitHub Stats
@@ -45,12 +45,12 @@ I really love computer science, My interests are: machine learning, web developm
 * Data Engineering
 * AWS
 * Docker
-* Microservices
+* Terraform
 * Data Structures
 
-### 🔭 I’m currently working on:
+### 🔭 I’m currently working at:
 
-HeimAtlas.
+Flatiron Software Co.
 
 <!--
 **luisprooc/luisprooc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
